@@ -1,0 +1,1 @@
+[Reference](https://www.reddit.com/r/nextjs/comments/yd4n00/hot_reloading/)
